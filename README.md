@@ -8,14 +8,14 @@ IFTS 24
 Av. Entre Ríos 757, C1080ABB 
 Cdad. Autónoma de Buenos Aires
 
-https://www.ifts24.edu.ar/ 
+[IFTS24](https://www.ifts24.edu.ar/)
+
 
 ## Skills
 - SQL
 - Python
 - Machine Learning
-- Análisis exploratorio de datos
-- Análisis estadístico de datos
+- Análisis exploratorio y estadístico de datos
 - Inteligencia Artificial
 - Excel
 - Power BI
@@ -28,7 +28,7 @@ IFDyT  24 Bernardo Hussay
 Pasaje Crámer 471 –
 Bernal – Buenos Aires
 
-https://isfdyt24-bue.infd.edu.ar/sitio/ 
+[ISFDYT24](https://isfdyt24-bue.infd.edu.ar/sitio/)
 
 ## Trayectoria Laboral
 IKE ASISTENCIA ARGENTINA
