@@ -36,7 +36,8 @@ IKE ASISTENCIA ARGENTINA
 •	2014 – en la actualidad
 
 
-## Sobre mi
+# Sobre mi
+
 Soy estudiante de segundo año de la carrera de Ciencia de Datos e Inteligencia Artificial, con el objetivo de hacer una transición hacia el ámbito de TI y análisis de datos. 
 Actualmente, me desempeño como Analista Sr en el sector de Cobros y Facturación, con 10 años de experiencia en gestión y procesamiento de datos financieros. 
 Mi formación académica me ha permitido desarrollar habilidades en SQL y Python para el análisis de grandes volúmenes de datos, así como en métodos estadísticos para la extracción de insights que optimicen la toma de decisiones.
