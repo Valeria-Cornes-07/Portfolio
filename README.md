@@ -10,7 +10,7 @@ Cdad. Autónoma de Buenos Aires
 
 https://www.ifts24.edu.ar/ 
 
-## Skils
+## Skills
 - SQL
 - Python
 - Machine Learning
