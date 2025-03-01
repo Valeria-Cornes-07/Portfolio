@@ -19,6 +19,7 @@ Librerias utilizadas: *Pandas*, *Seaborn*, *Scikit-learn*, *Statsmodels*
 El siguiente notebook es un trabajo complementario para desarrollar las habilidades de *análisis estadísticos*, *distribuciones de probabilidad* , *Media*, *Varianza* y *Desviación estándar* apoyado en el uso de gráficos y sus respectivos *análisis de histogramas*.
 
 Librerias utilizadas: *numpy*, *matplotlib*, *pandas*, *seaborn*.
+
 [Kaggle](https://www.kaggle.com/code/valeriacornes/variable-aleatoria)
 
 
