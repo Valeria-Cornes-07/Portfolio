@@ -1,45 +1,34 @@
 
-## Sobre mí
+## Mis Trabajos
 
-Soy estudiante de segundo año de la carrera de Ciencia de Datos e Inteligencia Artificial, con el objetivo de hacer una transición hacia el ámbito de TI y análisis de datos. 
-Actualmente, me desempeño como Analista Sr en el sector de Cobros y Facturación, con 10 años de experiencia en gestión y procesamiento de datos financieros. 
-Mi formación académica me ha permitido desarrollar habilidades en SQL y Python para el análisis de grandes volúmenes de datos, así como en métodos estadísticos para la extracción de insights que optimicen la toma de decisiones.
+Soy estudiante de segundo año de la carrera de Ciencia de Datos e Inteligencia Artificial, pueden ver a continuación 
 
+## Notebook - Estadística - Regresión Lineal
 
-## Educación 
+El siguiente notebook es un trabajo integrador de la materia Estadistica y Probabilidad. 
 
-### Tecnicatura en Ciencias de Datos e Inteligencia Artificial
-2 año en curso
-IFTS 24
-Av. Entre Ríos 757, C1080ABB 
-Cdad. Autónoma de Buenos Aires
+Se utilizó el dataset de Cáncer de mama, se hizo un breve **análisis exploratorio de datos**, se seleccionaron características y se realizó un modelo de **regresión lineal**. De este modelo se hizo un **análisis de residuos**.
 
-[IFTS24](https://www.ifts24.edu.ar/)
+Librerias utilizadas: *Pandas*, *Seaborn*, *Scikit-learn*, *Statsmodels*
+
+[Kaggle](https://www.kaggle.com/code/valeriacornes/regresion-lineal)
 
 
-## Skills
-- SQL
-- Python
-- Machine Learning
-- Análisis exploratorio y estadístico de datos
-- Inteligencia Artificial
-- Excel
-- Power BI
-- Ingles 
+## Notebook - Estadística - Variable Aleatoria
+
+El siguiente notebook es un trabajo complementario para desarrollar las habilidades de *análisis estadísticos*, *distribuciones de probabilidad* , *Media*, *Varianza* y *Desviación estándar* apoyado en el uso de gráficos y sus respectivos *análisis de histogramas*.
+
+Librerias utilizadas: *numpy*, *matplotlib*, *pandas*, *seaborn*.
+[Kaggle](https://www.kaggle.com/code/valeriacornes/variable-aleatoria)
 
 
-### Profesorado de Matemáticas para Educación Secundaria
-2 año completo
-IFDyT  24 Bernardo Hussay
-Pasaje Crámer 471 –
-Bernal – Buenos Aires
+## Notebook - Sistenas de Inteligencia Artificial
 
-[ISFDYT24](https://isfdyt24-bue.infd.edu.ar/sitio/)
+El siguiente notebook, que fue realizado en 4 etapas, consistió en tomar un dataset, hacer un *análisis estadístico de los datos* utilizando diferentes librerias con el fin de poder analizar un gran volumen de datos para luego plantear una o varias hipótesis acerca de la correlación de las variables. Luego se toma una única hipótesis y se toma una porción de los datos para entrenamiento utilizando el modelo de *machine learning* *ANN*.
 
-## Trayectoria Laboral
-IKE ASISTENCIA ARGENTINA
-•	Analista SR Administracion de Ventas
-•	2014 – en la actualidad
+Librerias utilizadas: *Pandas*, *matplotlib*, *Seaborn*, *Scikit-learn*, *tensorflow*
+
+[Kaggle](https://www.kaggle.com/code/valeriacornes/spotify-predictibilidad-de-la-popularidad)
 
 
 
