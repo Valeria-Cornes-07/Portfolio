@@ -31,6 +31,12 @@ Librerias utilizadas: *Pandas*, *matplotlib*, *Seaborn*, *Scikit-learn*, *tensor
 
 [Kaggle](https://www.kaggle.com/code/valeriacornes/spotify-predictibilidad-de-la-popularidad)
 
+## Curso Power BI
+
+Los siguientes dashboards fueron realizados utilizando como sugerencia del tutor bases disponibles en Kaggle. 
+Para ello se realizó la preparación de los datos mediante transformaciones desde Power Query, se optimizó la visualización de los mismos mediante el uso de tablas y gráficos y por último se le dió el formato de reporte.
+Los tres corresponden a los temas vistos en este curso.
+
 
 
 
