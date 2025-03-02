@@ -31,7 +31,7 @@ Librerias utilizadas: *Pandas*, *matplotlib*, *Seaborn*, *Scikit-learn*, *tensor
 
 [Kaggle](https://www.kaggle.com/code/valeriacornes/spotify-predictibilidad-de-la-popularidad)
 
-## Curso Power BI
+## <Curso Power BI>
 
 Los siguientes dashboards fueron realizados utilizando como sugerencia del tutor bases disponibles en Kaggle. 
 Para ello se realizó la preparación de los datos mediante transformaciones desde Power Query, se optimizó la visualización de los mismos mediante el uso de tablas y gráficos y por último se le dió el formato de reporte.
@@ -39,15 +39,17 @@ Los tres corresponden a los temas vistos en este curso.
 
 [Github](https://github.com/Valeria-Cornes-07/pbi-curso)
 
-### Proyecto Uno: Videojuegos
+### <Proyecto Uno: Videojuegos>
 
 ![image](https://github.com/user-attachments/assets/791cb52a-9cbb-464d-bc64-ce6a72a7cffc)
 
-### Proyecto Dos: Informe de denuncias Ante Defensa del Consumidor
+[Descarga](https://github.com/Valeria-Cornes-07/pbi-curso/blob/main/Proyecto%2001%20Videojuegos.pbix)
+
+### <Proyecto Dos: Informe de denuncias Ante Defensa del Consumidor>
 
 ![image](https://github.com/user-attachments/assets/f9612e67-e553-4b58-b642-bee16373e797)
 
-
+[Descarga](https://github.com/Valeria-Cornes-07/pbi-curso/blob/main/Informe%20de%20Denuncias%20ante%20Defensa%20del%20Consumidor.pbix)
 
 
 
