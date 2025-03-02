@@ -1,7 +1,7 @@
 
 ## Mis Trabajos
 
-Soy estudiante de segundo año de la carrera de Ciencia de Datos e Inteligencia Artificial, pueden ver a continuación 
+Soy estudiante de segundo año de la carrera de Ciencia de Datos e Inteligencia Artificial, pueden ver a continuación parte de mi trayectoria educativa.
 
 ## Notebook - Estadística - Regresión Lineal
 
