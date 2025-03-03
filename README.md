@@ -50,5 +50,10 @@ Los tres corresponden a los temas vistos en este curso.
 
 [Descarga](https://github.com/Valeria-Cornes-07/pbi-curso/blob/main/Informe%20de%20Denuncias%20ante%20Defensa%20del%20Consumidor.pbix)
 
+## Consulta API NASA
+
+[Kaggle](https://www.kaggle.com/code/valeriacornes/api-nasa)
+
+
 
 
