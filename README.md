@@ -36,7 +36,8 @@ Librerias utilizadas: *Pandas*, *matplotlib*, *Seaborn*, *Scikit-learn*, *tensor
 
 [Kaggle](https://www.kaggle.com/code/valeriacornes/spotify-predictibilidad-de-la-popularidad)
 
-![image](https://github.com/user-attachments/assets/b495718c-0de0-4b71-a046-66e6b632cc2d)
+![image](https://github.com/user-attachments/assets/b99a81a3-58ab-443f-a78a-29f2a4ea6246)
+
 
 
 ## <Curso Power BI>
