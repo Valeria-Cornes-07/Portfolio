@@ -54,6 +54,9 @@ Los tres corresponden a los temas vistos en este curso.
 
 [Kaggle](https://www.kaggle.com/code/valeriacornes/api-nasa)
 
+![API NASA](https://github.com/user-attachments/assets/c678bd26-789f-4057-8d28-365daf4c17c3)
+
+
 
 
 
