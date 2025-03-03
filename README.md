@@ -47,13 +47,13 @@ Los tres corresponden a los temas vistos en este curso.
 
 [Github](https://github.com/Valeria-Cornes-07/pbi-curso)
 
-### <Proyecto Uno: Videojuegos>
+### Proyecto Uno: Videojuegos
 
 ![image](https://github.com/user-attachments/assets/791cb52a-9cbb-464d-bc64-ce6a72a7cffc)
 
 [Descarga](https://github.com/Valeria-Cornes-07/pbi-curso/blob/main/Proyecto%2001%20Videojuegos.pbix)
 
-### <Proyecto Dos: Informe de denuncias Ante Defensa del Consumidor>
+### Proyecto Dos: Informe de denuncias Ante Defensa del Consumidor
 
 ![image](https://github.com/user-attachments/assets/f9612e67-e553-4b58-b642-bee16373e797)
 
