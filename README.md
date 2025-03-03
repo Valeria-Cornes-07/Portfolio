@@ -12,6 +12,9 @@ Librerias utilizadas: *Pandas*, *Seaborn*, *Scikit-learn*, *Statsmodels*
 
 [Kaggle](https://www.kaggle.com/code/valeriacornes/regresion-lineal)
 
+![image](https://github.com/user-attachments/assets/afc0f5e6-e705-4fba-929d-926034aa2876)
+
+
 
 ## Notebook - Estadística - Variable Aleatoria
 
@@ -21,14 +24,20 @@ Librerias utilizadas: *numpy*, *matplotlib*, *pandas*, *seaborn*.
 
 [Kaggle](https://www.kaggle.com/code/valeriacornes/variable-aleatoria)
 
+![image](https://github.com/user-attachments/assets/8d87a5eb-8e52-4859-bf98-7675d3eb85b8)
 
-## Notebook - Sistenas de Inteligencia Artificial
+
+
+## Notebook - Sistemas de Inteligencia Artificial
 
 El siguiente notebook, que fue realizado en 4 etapas, consistió en tomar un dataset, hacer un *análisis estadístico de los datos* utilizando diferentes librerias con el fin de poder analizar un gran volumen de datos para luego plantear una o varias hipótesis acerca de la correlación de las variables. Luego se toma una única hipótesis y se toma una porción de los datos para entrenamiento utilizando el modelo de *machine learning* *ANN*.
 
 Librerias utilizadas: *Pandas*, *matplotlib*, *Seaborn*, *Scikit-learn*, *tensorflow*
 
 [Kaggle](https://www.kaggle.com/code/valeriacornes/spotify-predictibilidad-de-la-popularidad)
+
+![image](https://github.com/user-attachments/assets/b495718c-0de0-4b71-a046-66e6b632cc2d)
+
 
 ## <Curso Power BI>
 
