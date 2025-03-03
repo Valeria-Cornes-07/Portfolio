@@ -39,7 +39,6 @@ Librerias utilizadas: *Pandas*, *matplotlib*, *Seaborn*, *Scikit-learn*, *tensor
 ![image](https://github.com/user-attachments/assets/b99a81a3-58ab-443f-a78a-29f2a4ea6246)
 
 
-
 ## <Curso Power BI>
 
 Los siguientes dashboards fueron realizados utilizando como sugerencia del tutor bases disponibles en Kaggle. 
