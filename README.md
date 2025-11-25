@@ -15,6 +15,9 @@ Trabajo Integrador de la materia NLP
 
 ![image](https://github.com/user-attachments/assets/eff15d66-c88f-489e-bdcf-5cdab640b6e4)
 
+![Demo Video](https://www.youtube.com/watch?v=-7r5cmlPl1k&feature=youtu.be)
+
+
 
 ## Notebook - Estadística - Regresión Lineal
 
