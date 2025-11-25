@@ -3,13 +3,15 @@
 
 ## APP MARIDAJES DE VINOS Y QUESOS
 
-App interactiva para tener un sommelier al alcance de la mano
+Trabajo Integrador de la materia Mineria de Datos
 
 [HugginFace](https://huggingface.co/spaces/Cumbiera-Intelectual-07/Maridaje_Vinos_y_Quesos)
 
 ![image](https://github.com/user-attachments/assets/302f4c8e-efdc-4b8f-9221-55d7dedbc42a)
 
 ## APP CHATBOT PARA ESTUDIANTES DE CIENCIAS DE DATOS 
+
+Trabajo Integrador de la materia NLP
 
 ![image](https://github.com/user-attachments/assets/eff15d66-c88f-489e-bdcf-5cdab640b6e4)
 
