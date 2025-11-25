@@ -7,11 +7,11 @@ App interactiva para tener un sommelier al alcance de la mano
 
 [HugginFace](https://huggingface.co/spaces/Cumbiera-Intelectual-07/Maridaje_Vinos_y_Quesos)
 
-[maridajeroque001](https://github.com/user-attachments/assets/302f4c8e-efdc-4b8f-9221-55d7dedbc42a)
+![image](https://github.com/user-attachments/assets/302f4c8e-efdc-4b8f-9221-55d7dedbc42a)
 
 ## APP CHATBOT PARA ESTUDIANTES DE CIENCIAS DE DATOS 
 
-[MIA CHATBOT](https://github.com/user-attachments/assets/eff15d66-c88f-489e-bdcf-5cdab640b6e4)
+![image](https://github.com/user-attachments/assets/eff15d66-c88f-489e-bdcf-5cdab640b6e4)
 
 
 ## Notebook - Estadística - Regresión Lineal
