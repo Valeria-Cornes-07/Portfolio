@@ -1,6 +1,22 @@
 
 # Mis Trabajos
 
+## APP ASISTENTE DE FACTURACIÓN
+
+Trabajo Integrador de la materia Proyecto Integrador Final
+
+[HugginFace](https://huggingface.co/spaces/Cumbiera-Intelectual-07/facturacion-inteligente-ai3)
+![image](https://github.com/user-attachments/assets/7cd74472-91a1-42b4-8fcd-b7fb29492be2)
+
+
+## APP CONTROL DE FATIGA VISUAL
+
+Trabajo Integrador de la materia Procesamiento Digital de Imágenes
+
+[HugginFace](https://huggingface.co/spaces/Cumbiera-Intelectual-07/fatiguemeshvisionV2)
+![image](https://github.com/user-attachments/assets/4001297a-43b5-46fe-a65b-16c03bc1b890)
+
+
 ## APP MARIDAJES DE VINOS Y QUESOS
 
 Trabajo Integrador de la materia Mineria de Datos
